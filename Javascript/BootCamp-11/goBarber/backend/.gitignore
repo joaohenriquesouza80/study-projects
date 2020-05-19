@@ -4,5 +4,7 @@ package-lock.json
 yarn.lock
 build/
 temp/
+.env
+ormconfig.json
 tmp/*
 !tmp/.gitkeep
